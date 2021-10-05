@@ -2,7 +2,6 @@
 namespace App\Controllers;
 
 class SelamatDatang extends BaseController {
-
     public function hal_awal(){
         return 'hello saya belajar CI4';
     }
